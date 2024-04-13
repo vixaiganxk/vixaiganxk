@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A code-crunching dynamo from the LeetCode lanes of India❤️</h3>
 
-# 💫 About Me:
 🔧 With a foundation in mechanical engineering, I bring a unique perspective to software development, blending analytical thinking with creative problem-solving skills.<br><br>👨‍💻 Currently, I'm diving deep into the world of Python, JavaScript, and Data Structures & Algorithms (DSA), honing my skills to build robust and efficient solutions.<br><br>💡 I'm always looking for interesting projects to collaborate on, especially those involving Python. Count me in whether it's web development, data analysis, or automation tasks!<br><br>🌱 Outside of coding, you can find me exploring new technologies, or enjoying good food.<br><br>Let's code and create something awesome together! 🚀<br><br>
 
 
